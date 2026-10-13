@@ -1,0 +1,9 @@
+pandas
+numpy
+yfinance
+matplotlib
+missingno
+openpyxl
+pymysql
+sqlalchemy
+ipykernel
